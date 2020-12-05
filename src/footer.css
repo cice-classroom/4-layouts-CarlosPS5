@@ -1,0 +1,20 @@
+.footer {
+    background-color: grey;
+    padding: var(--s);
+    display:flex;
+    align-items: center;
+    height: 3rem;
+    justify-content: space-between;
+    flex:1;
+}
+
+.copy__footer{
+    display: flex;
+    flex:1;
+}
+
+.footer__nav{
+    display:flex;
+    justify-content: space-between;
+    flex:1;
+}

@@ -51,6 +51,10 @@
     flex:0.25;
 }
 
+.title__panel2 {
+    font-weight: bold;
+}
+
 .text_panel2a {
     display:flex;
 }
