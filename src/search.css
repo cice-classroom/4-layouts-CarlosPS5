@@ -1,0 +1,7 @@
+.searcher {
+    border-radius: 9000px;
+    padding: var(--s) var(--l);
+    background-color: var(--primary-color);
+    border: none;
+
+}

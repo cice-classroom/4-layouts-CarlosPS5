@@ -1,0 +1,12 @@
+.panel3 {
+    margin-top: var(--xs);
+    background-color: var(--background-color);
+    padding: var(--xs);
+    height: var(--body-height);
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    flex:1;
+
+}

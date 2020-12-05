@@ -1,0 +1,24 @@
+:root {
+    --base: 0.5rem;
+    --xs: calc(var(--base) / 2);
+    --s: var(--base);
+    --m: calc(var(--base) * 2);
+    --l: calc(var(--base) * 4);
+    --body-width: 40rem;
+    --panel-heigth: 20rem;
+
+    --body-font: 'Open Sans', sans-serif;
+    --body-size : 14px;
+    --title-font: 'Open Sans', sans-serif;
+    --title-size : 18px;
+    --title-weight: bold;
+
+    --primary-color: #c4c4c4;
+    --on-primary-color: black;
+    --foreground-color: black;
+    --background-color: white;
+
+    --shadow: 0 3px 30px 5px hsl(0, 0%, 0%, 0.4);
+
+
+}
